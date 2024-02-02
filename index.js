@@ -7,7 +7,7 @@ for (i=0;i<=20;i++){
       console.log(i)
 }
 
-//odd
+//odd numbers between 0 to 19
 console.log("odd numbers between 0 to 20;")
 for (j=0; j<=20; j++){
   if(
